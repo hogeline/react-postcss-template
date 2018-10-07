@@ -1,5 +1,7 @@
 # React+PostCSS+CircleCIのテンプレートです
 
+CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
+
 ```
 $ npm install -g create-react-app
 $ npm install
