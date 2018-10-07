@@ -3,6 +3,8 @@
 - CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
 - PostCSSはNestedとimportを入れています．
 
+How to install
+
 ```
 $ npm install -g create-react-app
 $ npm install
