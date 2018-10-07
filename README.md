@@ -1,6 +1,7 @@
 # React+PostCSS+CircleCIのテンプレートです
 
-CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
+- CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
+- PostCSSはNestedとimportを入れています．
 
 ```
 $ npm install -g create-react-app
