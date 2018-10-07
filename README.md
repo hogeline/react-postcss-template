@@ -1,5 +1,5 @@
 # React+PostCSS+CircleCIのテンプレートです
-
+- create-react-appで作成しています．
 - CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
 - PostCSSはNestedとimportを入れています．
 
